@@ -24,46 +24,46 @@
 </div>
 
 <h4 align="center">
-  Mini sistema financeiro 💰!
+  Mini financial system 💰!
 <h4>
 
 <p align="center">
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licença">Licença</a>
+    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-license">License</a>
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⌛ Começando
+## ⌛ Getting started
 
-Clone o repositório.
+Clone the repository.
 
 `git clone https://github.com/zehguilherme/maratona-discover.git`
 
-Inicie a aplicação.
+Launch the application.
 
 1. `cd maratona-discover`
-2. Dê 2 cliques no arquivo `index.html`
+2. Double click on the `index.html` file
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-1. Faça um fork desse repositório;
-2. Crie uma branch com a sua feature: `git checkout -b minha-feature`;
-3. Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-4. Faça push para a sua branch: `git push origin minha-feature`;
-5. Crie um pull request;
-6. Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+1. Fork this repository;
+2. Create a branch with your feature: `git checkout -b my-feature`;
+3. Commit your changes: `git commit -m "feat: My new feature"`;
+4. Push to your branch: `git push origin my-feature`;
+5. Create a pull request;
+6. After the merge of your pull request is done, you can delete your branch.
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob a licença MIT. Veja a [licença](LICENSE) para mais informações.
+This project is under the MIT license. See the [license](LICENSE) for more information.
 
 ---
 
-Feito com 💟 por José Guilherme Paro Monteiro Tomaine 👋 [Fale comigo!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
+Made with 💟 by José Guilherme Paro Monteiro Tomaine 👋 [Talk to me!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
